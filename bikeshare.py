@@ -1,3 +1,7 @@
+"""
+This program is part of the course Programing for Data Science from Udacity"
+
+"""
 import time
 import pandas as pd
 import numpy as np
