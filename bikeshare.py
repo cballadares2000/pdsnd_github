@@ -1,3 +1,7 @@
+"""
+This program will be used as par of the Introduction to Version Control
+in GitHub
+"""
 import time
 import pandas as pd
 import numpy as np
