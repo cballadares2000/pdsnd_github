@@ -2,13 +2,23 @@
 Project created on August 1 2019
 
 ### Project Title
-Replace the Project Title
+Programimng For Data Science Nano Degree
+
+### Git Hub
+cballadares2000/pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+This project is part of the course "Programming For Data Science " part of the NanoDegree programa from Udacity
 
-### Files used
-Include the files used
+### Program Files used
+bikesahre.py
+
+### Data Files used
+new_york_city.csv
+chicago.csv
+Washington.cvs
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Course from: www.udacity.com
+
+GitHub Forked from: udacity/pdsnd_github
