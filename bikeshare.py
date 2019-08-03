@@ -1,5 +1,9 @@
 """
 This program is part of the course Programing for Data Science from Udacity"
+Data files to be used in this program:
+chicago.csv
+new_york_city.csv
+Washington.csv
 
 """
 import time
