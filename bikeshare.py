@@ -1,6 +1,10 @@
 """
-This program will be used as par of the Introduction to Version Control
-in GitHub
+This program is part of the course Programing for Data Science from Udacity"
+Data files to be used in this program:
+chicago.csv
+new_york_city.csv
+Washington.csv
+
 """
 import time
 import pandas as pd
@@ -251,3 +255,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+"""
+Author: Cesar A Balladares
+Date: 2019
+"""
