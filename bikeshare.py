@@ -5,6 +5,8 @@ chicago.csv
 new_york_city.csv
 Washington.csv
 
+This program uses Anaconda, in special Numpy and Pandas
+
 """
 import time
 import pandas as pd
