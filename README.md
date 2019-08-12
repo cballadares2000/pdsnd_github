@@ -23,6 +23,12 @@ new_york_city.csv
 chicago.csv
 Washington.cvs
 
+### List of tools used
+Python
+Anaconda
+NumPy
+Pandas
+
 ### Credits
 Course from: www.udacity.com
 
